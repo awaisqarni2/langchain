@@ -8,6 +8,7 @@ wheels/
 .vscode/
 src/
 .python-version
+uv.lock
 
 # Virtual environments
 .venv
